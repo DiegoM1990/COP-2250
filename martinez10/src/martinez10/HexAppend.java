@@ -1,8 +1,3 @@
-/*Diego Martinez
- * 
- * 
- */
-
 package martinez10;
 
 public class HexAppend {
