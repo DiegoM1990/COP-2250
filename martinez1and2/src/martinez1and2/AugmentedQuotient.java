@@ -1,8 +1,3 @@
-/*Diego Martinez
- * 
- * SPC ID: 2343157
- */
-
 //This program will prompt the user for two numbers, calculate the quotient and decrease it by 2.5
 
 package martinez1and2;
