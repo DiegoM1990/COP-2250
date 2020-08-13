@@ -1,8 +1,3 @@
-/*Diego Martinez
- * 
- *SPC ID: 2343157
- */
-
 //This program computes user input dimensions of a rectangle to find the perimeter and the area
 package martinez1and2;
 
