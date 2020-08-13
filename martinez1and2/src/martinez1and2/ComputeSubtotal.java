@@ -1,8 +1,3 @@
-/* Diego Martinez 
- * 
- * SPC ID: 2343157
- */
-
 //This program computes and displays the subtotal of a user input quantity and unit price
 
 package martinez1and2;
